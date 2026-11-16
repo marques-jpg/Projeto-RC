@@ -9,3 +9,7 @@ file-receiver
 *.log
 *.msc
 *.eps
+
+.direnv/
+.envrc
+.env
